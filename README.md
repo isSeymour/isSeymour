@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=1500&pause=800&color=20C997&center=true&width=500&lines=Hi,+I'm+Xincheng+Wang;Computer+Science+Researcher;AI+%7C+Security+%7C+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=1500&pause=800&color=20C997&center=true&width=500&lines=Hi,+I'm+Xincheng+Wang;Computer+Science+Student;AI+%7C+LLM+%7C+Security" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -9,6 +9,17 @@
 </p>
 
 ---
+
+### 🎓 Academic Background
+
+M.S. in Computer Science, Tongji University
+
+Research Interests:
+- LLMs & AI Security
+- Time Series Analysis
+- Graph Neural Networks
+- Big Data Systems
+
 
 ### 🛠 Tech Stack
 
@@ -36,14 +47,5 @@
 🌱 My Recent Contributions
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=isSeymour&theme=github-compact&hide_border=true&area=true" width="90%"/> </p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=isSeymour&show_icons=true&hide_border=true&bg_color=00000000&hide_title=true" width="48%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isSeymour&layout=compact&hide_border=true&bg_color=00000000" width="45%"/> </p>
 
-🎓 Academic Background
-
-M.S. in Computer Science, Tongji University
-
-Research Interests:
-- LLMs & AI Security
-- Time Series Analysis
-- Graph Neural Networks
-- Big Data Systems
 
 ![Contribution Calendar](https://ghchart.rshah.org/isSeymour)
