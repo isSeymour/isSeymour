@@ -1,5 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=20C997&center=true&width=500&lines=Hi,+I'm+Xincheng+Wang;Computer+Science+Student;AI+%7C+LLM+%7C+Security" alt="Typing SVG" />
+  <h1 align="center"> 
+    <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="30px"/>
+    Hi, I'm Xincheng Wang
+  </h1>
+  <h3 align="center">
+    <img src="https://img.shields.io/badge/Computer_Science-Student-blue?style=flat&logo=graduation-cap&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AI-LLM_Security-red?style=flat&logo=robot&logoColor=white"/>
+  </h3>
 </p>
 
 <p align="center">
