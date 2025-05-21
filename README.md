@@ -39,35 +39,11 @@
 🎓 Academic Background
 
 M.S. in Computer Science, Tongji University
+
 Research Interests:
-▪️ LLMs & AI Security
-▪️ Time Series Analysis
-▪️ Graph Neural Networks
-▪️ Big Data Systems
+- LLMs & AI Security
+- Time Series Analysis
+- Graph Neural Networks
+- Big Data Systems
 
-
-Key Features:
-
-1. **Enhanced Tech Stack Icons**:
-   - All major languages/frameworks represented with colored badges
-   - Consistent flat style for visual harmony
-   - Grouped by category (Languages, Frameworks, Tools)
-
-2. **GitHub Activities Section**:
-   - Activity graph showing your contribution patterns
-   - Clean "Recent Contributions" header
-   - Responsive width (90% of page)
-
-3. **Visual Improvements**:
-   - Modern teal accent color (#20C997) in header
-   - File emojis (📝📧📄) for contact links
-   - Compact academic section with bullet points
-
-4. **Maintained Minimalism**:
-   - No excessive animations
-   - Balanced white space
-   - Clear section separation
-
-To add your contribution calendar, you could also include:
-```markdown
 ![Contribution Calendar](https://ghchart.rshah.org/isSeymour)
