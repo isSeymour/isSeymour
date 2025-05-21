@@ -4,8 +4,9 @@
     Hi, I'm Xincheng Wang
   </h1>
   <h3 align="center">
-    <img src="https://img.shields.io/badge/Computer_Science-Student-blue?style=flat&logo=graduation-cap&logoColor=white"/>
-    <img src="https://img.shields.io/badge/AI-LLM_Security-red?style=flat&logo=robot&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Computer_Science-Student-3776AB?style=for-the-badge&logo=academicons&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LLMs-Time_Series-FF6F00?style=for-the-badge&logo=graphql&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/AI-Security-4FC08D?style=for-the-badge&logo=shield-check&logoColor=white"/>
   </h3>
 </p>
 
