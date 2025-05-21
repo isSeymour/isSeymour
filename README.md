@@ -61,7 +61,7 @@ Research Interests:
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=isSeymour&theme=github-compact&hide_border=true&area=true" width="90%"/> </p><p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=isSeymour&show_icons=true&hide_border=true&bg_color=00000000&hide_title=true" width="48%"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isSeymour&layout=compact&hide_border=true&bg_color=00000000&exclude_repo=isseymour.github.io" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isSeymour&layout=compact&hide_border=true&bg_color=00000000&exclude_repo=isSeymour.github.io" width="45%"/>
 </p>
 
 <p align="center"> <img src="https://ghchart.rshah.org/isSeymour" width="90%"/> </p>
