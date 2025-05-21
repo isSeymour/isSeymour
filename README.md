@@ -58,6 +58,8 @@ Research Interests:
 
 ### 📊 GitHub Activities
 
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=isSeymour&theme=github-compact&hide_border=true&area=true" width="90%"/> </p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=isSeymour&show_icons=true&hide_border=true&bg_color=00000000&hide_title=true" width="48%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isSeymour&layout=compact&hide_border=true&bg_color=00000000" width="45%"/> </p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=isSeymour&theme=github-compact&hide_border=true&area=true" width="90%"/> </p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=isSeymour&show_icons=true&hide_border=true&bg_color=00000000&hide_title=true" width="48%"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isSeymour&layout=compact&hide_border=true&bg_color=00000000&hide_progress=true&langs_count=5&title_color=20C997&text_color=555&card_width=300" width="45%"/>
+</p>
 <p align="center"> <img src="https://ghchart.rshah.org/isSeymour" width="90%"/> </p>
 
