@@ -4,9 +4,9 @@
     Hi, I'm Xincheng Wang
   </h1>
   <h3 align="center">
-    <img src="https://img.shields.io/badge/Computer_Science-Student-3776AB?style=flat&logo=academicons&logoColor=white"/>
-    <img src="https://img.shields.io/badge/LLMs-Time_Series-FF6F00?style=flat&logo=graphql&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/AI-Security-4FC08D?style=flat&logo=shield-check&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GNN-Financial_Fraud-3776AB?style=flat&logo=graphql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LLMs-Time_Series-FF6F00?style=flat&logo=clock&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/AI-Security-4FC08D?style=flat&logo=bookstack&logoColor=white"/>
   </h3>
 </p>
 
