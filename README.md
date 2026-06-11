@@ -18,13 +18,6 @@
 
 <p align="center"> <img src="https://ghchart.rshah.org/isSeymour" width="90%"/> </p>
 
----
-
-### 🎓 Academic Background
-
-- **M.S. in Artificial Intelligence**, School of Artificial Intelligence, Shanghai Jiao Tong University (Currently pursuing)
-- **B.S. in Information Security**, School of Computer Science and Technology, Tongji University
-
 ### 🛠 Tech Stack
 
 <p align="center">
