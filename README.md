@@ -4,9 +4,9 @@
     Hi, I'm Xincheng Wang
   </h1>
   <h3 align="center">
-    <img src="https://img.shields.io/badge/GNN-Financial_Fraud-3776AB?style=flat&logo=graphql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/LLMs-Time_Series-FF6F00?style=flat&logo=ollama&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/AI-Security-4FC08D?style=flat&logo=bookstack&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LLMs-Agent-FF6F00?style=flat&logo=ollama&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/Agentic-RL-3776AB?style=flat&logo=graphql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Coding-Search-4FC08D?style=flat&logo=bookstack&logoColor=white"/>
   </h3>
 </p>
 
@@ -20,13 +20,13 @@
 
 ### 🎓 Academic Background
 
-M.S. in Information Security, the School of Computer Science and Technology, Tongji University
+- **M.S. in Artificial Intelligence**, School of Artificial Intelligence, Shanghai Jiao Tong University (Currently pursuing)
+- **B.S. in Information Security**, School of Computer Science and Technology, Tongji University
 
 Research Interests:
-- LLMs & AI Security
-- Time Series Analysis
-- Graph Neural Networks
-- Big Data Systems
+- LLMs & Agent
+- Agentic RL
+- Coding & Search
 
 
 ### 🛠 Tech Stack
